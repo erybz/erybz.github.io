@@ -37,6 +37,9 @@ hr {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+.title {
+  margin-top: 0;
+}
 
 .post-card-list {
   list-style-type: none;
@@ -52,6 +55,7 @@ hr {
 
 .post-card-title {
   font-family: "Fira Code", monospace;
+  margin-top: 0;
 }
 
 .post-card-link {
