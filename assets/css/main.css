@@ -1,0 +1,196 @@
+body {
+  background-color: #1f2128;
+  color: #ffffff;
+  font-family: "Muli", sans-serif;
+  font-size: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Fira Code", monospace;
+  margin-top: 3rem;
+}
+
+a,
+a:active,
+a:focus,
+a:hover,
+a:visited {
+  text-decoration: underline;
+  text-decoration: underline;
+  color: #007bff;
+}
+
+hr {
+  border-top: 2px solid #25282a;
+}
+
+::selection {
+  background: #b13221;
+}
+
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.post-card-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.post-card-item {
+  padding: 20px 10px;
+  border-bottom: 1px solid #25282a;
+}
+.post-card-header {
+}
+
+.post-card-title {
+  font-family: "Fira Code", monospace;
+}
+
+.post-card-link {
+  color: #ffffff;
+}
+
+.post-card-link:active,
+.post-card-link:focus,
+.post-card-link:hover,
+.post-card-link:visited {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+.post-card-meta {
+  font-size: 16px;
+}
+
+.post-card-date {
+  opacity: 0.9;
+}
+
+.post-tag {
+  background-color: #b01212;
+  margin: 0 5px;
+  padding: 2px 5px;
+  font-family: "Fira Code", monospace;
+}
+
+.post-card-excerpt {
+  font-size: 1.2rem;
+}
+
+.post-title {
+  font-size: 2.5rem;
+}
+
+.post-meta {
+  font-size: 16px;
+  padding: 20px 0px;
+}
+
+@media (max-width: 1200px) {
+  .post-title {
+    font-size: 2.3rem;
+  }
+}
+
+.sidebar {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sidebar .title {
+  font-size: 3.5rem;
+  display: block;
+}
+
+.sidebar .title a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.sidebar .post-tag {
+  padding: 3px 9px;
+  margin-bottom: 12px;
+  display: inline-block;
+  font-size: 1rem;
+}
+
+@media (max-width: 1200px) {
+  .sidebar .title {
+    font-size: 3rem;
+  }
+  .sidebar .post-tag {
+    padding: 2px 7px;
+    margin-bottom: 9px;
+    font-size: 0.9rem;
+  }
+}
+
+#loader::after {
+  content: "_";
+  opacity: 1;
+  animation: terminalLoader 1s linear infinite;
+}
+
+@keyframes terminalLoader {
+  0% {
+    opacity: 0;
+  }
+  25% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+footer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+footer .email {
+  font-size: 1.1rem;
+}
+
+footer .copyright {
+  font-size: 0.9rem;
+  margin-top: 10px;
+}
+
+code {
+  font-family: "Fira Code", monospace;
+}
+
+.highlight {
+  background-color: #1a1c22;
+}
+
+div.highlight {
+  margin-bottom: 1rem;
+  padding: 20px 25px;
+}
+
+pre.highlight {
+  margin: 0;
+  font-weight: 300;
+}
+
+@media (max-width: 1200px) {
+  footer .email {
+    font-size: 0.9rem;
+  }
+}
