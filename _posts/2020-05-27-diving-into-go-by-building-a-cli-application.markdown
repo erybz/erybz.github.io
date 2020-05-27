@@ -383,6 +383,8 @@ $ go build .
 $ ./go-grab-xkcd -n 323 -s -o json
 ```
 
+Find the complete source code in the Github Repository - [go-grab-xkcd](https://github.com/erybz/go-grab-xkcd)
+
 ## Bash Bonus
 
 Download multiple comics serially by using this simple shell magic-
@@ -392,5 +394,3 @@ $ for i in {1..10}; do ./go-grab-xkcd -n $i -s; done;
 ```
 
 The above shell code simple calls our `go-grab-xkcd` command in a `for` loop, and the `i` value is substituted as comic number since xkcd uses serial integers as comic number/ID.
-
-
