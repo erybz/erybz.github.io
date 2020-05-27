@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diving into Go by building a CLI application"
-date: 2020-05-26 22:30:00 +0000
+date: 2020-05-20 00:00:00 +0000
 tags: [Go]
 ---
 
