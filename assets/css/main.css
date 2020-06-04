@@ -175,7 +175,7 @@ footer {
   margin-bottom: 20px;
 }
 
-footer .email {
+footer {
   font-size: 1.1rem;
 }
 
@@ -203,7 +203,7 @@ pre.highlight {
 }
 
 @media (max-width: 1200px) {
-  footer .email {
+  footer {
     font-size: 0.9rem;
   }
 }
