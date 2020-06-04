@@ -21,8 +21,16 @@ a:focus,
 a:hover,
 a:visited {
   text-decoration: underline;
-  text-decoration: underline;
   color: #007bff;
+}
+
+a.plain,
+a.plain:active,
+a.plain:focus,
+a.plain:hover,
+a.plain:visited {
+  text-decoration: none;
+  color: #ffffff;
 }
 
 hr {
