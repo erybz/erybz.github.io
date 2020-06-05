@@ -691,6 +691,8 @@ The application won't run unless you register on [MaxMind](https://www.maxmind.c
 * Support tracking other metrics along with Page Views
 * Improve the codebase by handling errors gracefully
 
+Find the complete source code in the Github Repository - [go-gal-analytics](https://github.com/erybz/go-gal-analytics)
+
 ### Bonus
 You can attach the image pixel tracker to your emails and find out the location, browser, etc. of the person who opened your email. Tweak the code and you'll know the exact time when the email was opened.
 
