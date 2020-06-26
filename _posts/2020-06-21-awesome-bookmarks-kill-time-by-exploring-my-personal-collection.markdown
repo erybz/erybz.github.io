@@ -2,6 +2,7 @@
 layout: post
 title: "Awesome Bookmarks - Kill time by exploring my personal collection"
 date: 2020-06-21 16:30:00 +0000
+description: Over the years, I have accumulated a fair amount of bookmarks. It was pretty entertaining revisiting them today. If you have time to kill, you know what to do.
 tags: [Random]
 ---
 

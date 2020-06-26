@@ -2,6 +2,7 @@
 layout: post
 title: "Diving into Go by building a CLI application"
 date: 2020-05-27 00:00:00 +0000
+description: You have wrapped your head around the Go syntax and practised them one by one, however you won't feel comfortable writing applications in Go unless you build one.
 tags: [Go]
 ---
 

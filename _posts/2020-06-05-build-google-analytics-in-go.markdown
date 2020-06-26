@@ -2,6 +2,7 @@
 layout: post
 title: "Build Google Analytics in Go"
 date: 2020-06-05 00:07:00 +0000
+description: When you think of building Google Analytics what comes to mind? Visualising the enormity of the platform with all the bells and whistles won't help, you'll fail.
 tags: [Go]
 ---
 
