@@ -20,8 +20,9 @@ a:active,
 a:focus,
 a:hover,
 a:visited {
-  text-decoration: underline;
-  color: #007bff;
+  text-decoration: none;
+  color: #ffffff;
+  border-bottom: 1px dotted #fff;
 }
 
 a.plain,
@@ -31,6 +32,7 @@ a.plain:hover,
 a.plain:visited {
   text-decoration: none;
   color: #ffffff;
+  border: none;
 }
 
 hr {
@@ -68,6 +70,7 @@ hr {
 
 .post-card-link {
   color: #ffffff;
+  border: none;
 }
 
 .post-card-link:active,
@@ -76,6 +79,7 @@ hr {
 .post-card-link:visited {
   text-decoration: underline;
   color: #ffffff;
+  border: none;
 }
 
 .post-card-meta {
