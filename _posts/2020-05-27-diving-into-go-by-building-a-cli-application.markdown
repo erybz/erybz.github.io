@@ -6,6 +6,8 @@ description: You have wrapped your head around the Go syntax and practised them 
 tags: [Go]
 ---
 
+[Russian Version](https://howtorecover.me/pogruzhenie-v-go-putem-sozdaniya-prilozheniya-cli)
+
 You have wrapped your head around the Go syntax and practised them one by one, however you won't feel comfortable writing applications in Go unless you build one.
 
 In this blog post we'll build a CLI application in Go, which we'll call **go-grab-xkcd**.
