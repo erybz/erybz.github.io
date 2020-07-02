@@ -18,7 +18,9 @@ use-site-title: true
         {% endfor %}
       </div>
     </div>
-    <div class="post-card-excerpt"><p>{{ post.excerpt }}</p></div>
+    <div class="post-card-excerpt">
+      <p>{{ post.description }}</p>
+    </div>
   </li>
   {% endfor %}
 </ul>
