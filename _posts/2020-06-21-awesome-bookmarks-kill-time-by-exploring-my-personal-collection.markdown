@@ -134,6 +134,7 @@ You can share interesting bookmarks in the comments below.
 * [JoinPeerTube](https://joinpeertube.org/) 
 * [IPFS Powers the Distributed Web](https://ipfs.io/) 
 * [Glamorous Toolkit](https://gtoolkit.com/)
+* [Toolbox for Developers](https://extendsclass.com/)
 
 # Fun Stuff
 
@@ -248,6 +249,8 @@ You can share interesting bookmarks in the comments below.
 * [Daily UI Design Challenge](http://www.dailyui.co/) 
 * [Online Image Vectorizer](https://www.vectorizer.io/) 
 * [flatuicolorpicker : Best Flat Colors For UI Design](http://www.flatuicolorpicker.com/)
+* [Free stock photo library for commercial and editorial use. Huge library of stunning, high quality, royalty free images. No attribution required](https://pikwizard.com/)
+* [Color Schemes: How to Choose Your Aesthetic Palette](https://www.evinex.com/color-schemes/)
 
 # Comics
 
